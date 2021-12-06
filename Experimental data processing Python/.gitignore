@@ -1,5 +1,9 @@
+# exclude data and results
 *.pdf
 *.txt
 *.csv
 *.png
 *.xlsx
+
+# exclude checkpoints
+*.ipynb_checkpoints
